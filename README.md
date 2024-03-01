@@ -2,7 +2,7 @@
 <h3 align="center">A junior front end developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **PT. Temas Tbk**
+- 🔭 I’m currently working on **PT. Temas Tbk** as **IT Developer**
 
 - 📄 Here's my resume [https://read.cv/fadhilhasan](https://read.cv/fadhilhasan)
 
