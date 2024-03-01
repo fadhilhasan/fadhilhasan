@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">A junior front end developer</h3>
+<h3 align="center">a junior front end developer</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working at **PT. Temas Tbk** as **IT Developer**
