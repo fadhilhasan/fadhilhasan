@@ -7,6 +7,7 @@
 ###
 
 <p align="left">🔭 I’m currently working at PT. Temas Tbk as IT Developer<br><br>📄 Here's my resume https://read.cv/fadhilhasan</p>
+![:name](https://count.getloli.com/get/@:fadhilhasan)
 
 ###
 
