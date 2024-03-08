@@ -7,7 +7,7 @@
 ###
 
 <p align="left">🔭 I’m currently working at PT. Temas Tbk as IT Developer<br><br>📄 Here's my resume https://read.cv/fadhilhasan</p>
-<img src="https://count.getloli.com/get/@:rule34" alt=":rule34" />
+<img align="center" src="https://count.getloli.com/get/@:fadhilhasan" alt=":fdhlhsn" />
 
 ###
 
