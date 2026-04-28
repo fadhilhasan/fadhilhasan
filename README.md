@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at Worlder TEAM Pte. Ltd. as Junior Frontend Developer<br><br>📄 Here's my resume https://read.cv/fadhilhasan</p>
+<p align="left">🔭 I’m currently working at Worlder TEAM Pte. Ltd. as Junior Frontend Developer<br><br>📄 Here's my resume https://peerlist.io/fadhilhasan/resume</p>
 <div align="center">
   <img align="center" src="https://count.getloli.com/get/@:fadhilhasan?theme=rule34" alt=":fdhlhsn" /> 
 </div>
